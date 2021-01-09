@@ -1,0 +1,56 @@
+header {
+    display: flex;
+    justify-content: space-around;
+    padding: 40px 0;
+    text-align: center;
+    background-color: lightslategray;
+}
+
+.flagImage {
+    width: 15%;
+    height: 5%;
+    margin: 15px;
+    
+}
+
+.headerLogo {
+    width: 15%;
+}
+
+body {
+    margin: 0 auto;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.navBar {
+    display: flex;
+    justify-content: space-evenly;
+    padding: 20px 0;
+    border: dotted 2px lightgreen;
+    font-size: 24px;
+}
+
+.countryFacts {
+    display: flex;
+    justify-content: space-around;
+    border: dotted 2px orange;
+    margin: 15px 0;
+}
+
+.countryArticles {
+    border: dotted 2px goldenrod;
+    width: 100%;
+    margin: 10px;
+}
+
+.footer {
+    text-align: center;
+    padding: 8px 0;
+    border: dotted 2px purple;
+    background-color: grey
+}
+
+.footerLogo {
+    width: 8%;
+}
+
