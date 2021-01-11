@@ -14,12 +14,15 @@ main {
     
 }
 .navBar a {
-    color: rgb(204, 199, 199);
+    color: rgb(158, 146, 137);
     font-size: 24px;
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
 }
 .navBar a:hover {
     color:rgb(240, 191, 32);
+}
+.activePage {
+    background-color:white;
 }
 .homeImage {
     display: flex;
