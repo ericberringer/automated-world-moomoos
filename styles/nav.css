@@ -8,14 +8,16 @@
 }
 
     .navBar a {
-        color: text-align: center;
-        font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif ;
+        text-align: center;
+        font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
         font-size: 20px;
-        color: rgb(204, 199, 199);
+        color: rgb(148, 144, 144);
         font-size: 24px;
         font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
     }
     .navBar a:hover {
         color:rgb(240, 191, 32);
     }
-    
+    .activePage {
+        background-color:white;
+    }
