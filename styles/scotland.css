@@ -67,12 +67,10 @@ li {
 .countryFacts {
     display: flex;
     justify-content: space-around;
-    border: dotted 2px orange;
     margin: 15px 0;
 }
 
 .countryArticles {
-    border: dotted 2px goldenrod;
     width: 100%;
     margin: 10px;
 }
@@ -80,7 +78,6 @@ li {
 .footer {
     text-align: center;
     padding: 8px 0;
-    border: dotted 2px purple;
     background-color: #8e949e;
 }
 
