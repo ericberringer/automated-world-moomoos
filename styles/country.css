@@ -1,0 +1,25 @@
+.countryimgName {
+    display: flex;
+    background-size: 100%;
+    background-image: url(https://travelmagazine.wowcher.co.uk/wp-content/uploads/2020/04/iceland-banner.jpg);
+    height: 300px;
+    flex-direction: column;
+    justify-content: center;
+    padding:inherit;
+}
+.countryimgName h2 {
+    text-align: center;
+    color: rgb(7, 50, 99);
+    border: rgb(204, 199, 199);
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 30px;
+    font-style:oblique;
+    margin-top: 2px;
+}
+.countryimgName h1 {
+    color: whitesmoke;
+    font-size: 90px;
+    text-align: center;
+    margin-bottom: 2px;
+    margin-top: 1px;
+}

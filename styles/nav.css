@@ -1,0 +1,21 @@
+
+    .navBar {
+        display: flex;
+        justify-content: space-evenly;
+        padding: 20px 0;
+        background-color:black;
+        border-radius: 5px;
+}
+
+    .navBar a {
+        color: text-align: center;
+        font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif ;
+        font-size: 20px;
+        color: rgb(204, 199, 199);
+        font-size: 24px;
+        font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    }
+    .navBar a:hover {
+        color:rgb(240, 191, 32);
+    }
+    
