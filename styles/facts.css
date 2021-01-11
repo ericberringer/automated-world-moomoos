@@ -1,0 +1,22 @@
+.countryFacts {
+    display: flex;
+    background-color: rgb(204, 199, 199);
+    margin: 5px;
+    border-radius: 5px;
+}
+
+.countryArticles {
+    display: flex;
+    background-color:rgb(8, 166, 194);
+    width: 100%;
+    margin: 10px;
+    text-align: center;
+    flex-direction: column;
+    border-radius: 10px;
+}
+.countryArticles h2 {
+    font-variant: small-caps;
+}
+.countryArticles li {
+    text-align: left;
+}
