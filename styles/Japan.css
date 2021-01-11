@@ -57,7 +57,7 @@ a {color: #CDFFFF}
 
 
 .countryFacts {
-    display: flex;
+    display:flex;   
     justify-content: space-around;
     border: dotted 2px black;
     margin: auto;
