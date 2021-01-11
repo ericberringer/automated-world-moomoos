@@ -1,0 +1,30 @@
+main {
+}
+.homeHeader {
+    text-align: center;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif ;
+    font-size: 50px;
+    background-color: rgb(240, 191, 32);
+}
+.navBar {
+    display: flex;
+    justify-content: space-evenly;
+    padding: 20px 0;
+    background-color:black;
+    
+}
+.navBar a {
+    color: rgb(204, 199, 199);
+    font-size: 24px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+.navBar a:hover {
+    color:rgb(240, 191, 32);
+}
+.homeImage {
+    display: flex;
+    justify-content: center;
+}
+.homeImage img {
+    height: 550px;
+}

@@ -1,0 +1,11 @@
+.footer {
+    text-align: center;
+    padding: 8px 0;
+    background-color: black;
+    border-radius: 5px;
+    color: rgb(240, 191, 32);
+}
+
+.footerLogo {
+    width: 8%;
+}
