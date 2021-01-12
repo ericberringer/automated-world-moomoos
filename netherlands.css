@@ -3,8 +3,14 @@ header {
     justify-content: space-around;
     padding: 40px 0;
     text-align: center;
-    background-color: black;
+    
 }
+
+
+iframe {
+    object-fit: cover;
+}
+
 
 .flagImage {
     width: 15%;
@@ -13,6 +19,18 @@ header {
     
 }
 
+section {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: red;
+    font-size: 30pt;
+    font-weight: bolder;
+    text-align: center;
+    background-color: black;
+}
+
+.videoHeader {
+    background-color: black;
+}
 .welcome {
     font-family: Georgia, 'Times New Roman', Times, serif;
     color: red;
