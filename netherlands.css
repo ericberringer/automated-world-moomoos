@@ -1,0 +1,92 @@
+header {
+    display: flex;
+    justify-content: space-around;
+    padding: 40px 0;
+    text-align: center;
+    background-color: white;
+}
+
+.flagImage {
+    width: 15%;
+    height: 5%;
+    margin: 15px;
+    
+}
+
+.welcome {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: red;
+    font-size: 50pt;
+    font-weight: bolder;
+}
+
+.headerLogo {
+    width: 15%;
+}
+
+body {
+    margin: 0 auto;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.navBar {
+    display: flex;
+    justify-content: space-evenly;
+    padding: 20px 0;
+    border: solid 2px lightgrey;
+    font-size: 24px;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: black;
+    }
+
+.navBar a:hover {
+color: grey;
+}
+
+.activePage:hover {
+    background-color: white;
+}
+
+.amsterdamPic {
+    flex: display;
+    flex-basis: 100%;
+    align-items: center;
+    justify-content: center;
+    border: solid black;
+   }
+
+.cityPics {
+    border: solid 2px blue;
+    width: 100%;
+    margin: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+    }
+
+.countryFacts {
+    display: flex;
+    justify-content: space-around;
+    border: solid 2px blue;
+    margin: 15px 0;
+    text-align: center;
+}
+.citizens:hover {
+    box-shadow: 0 8px 16px rgba(0, 0, 0, 2);
+}
+
+.countryArticles {
+    border: solid 2px blue;
+    width: 100%;
+    margin: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.footer {
+    text-align: center;
+    padding: 8px 0;
+    border: dotted 2px purple;
+    background-color: grey
+}
+
+.footerLogo {
+    width: 8%;
+}
