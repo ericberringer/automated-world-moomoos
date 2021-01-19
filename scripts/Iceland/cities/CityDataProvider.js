@@ -1,10 +1,10 @@
 const cityCollection = [
     {
-        image:"https://cdn.audleytravel.com/700/499/79/15975972-reykjavk.jpg alt='View of Reykjavik'",
+        image:"https://cdn.audleytravel.com/700/499/79/15975972-reykjavk.jpg ",
         name: "Reykjavík (Capital of Iceland)"
     },
     {
-        image:"https://cdn.tourradar.com/s3/tour/1500x800/99897_46368406.jpg alt='City view of Akureyri'",
+        image:"https://cdn.tourradar.com/s3/tour/1500x800/99897_46368406.jpg",
         name: "Akureyri"
     },
     {
