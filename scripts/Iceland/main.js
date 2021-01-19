@@ -1,5 +1,6 @@
 
 import {cityList} from './cities/CityList.js'
+import { landmarkList } from './locations/LandmarkList.js'
 
 cityList()
 
@@ -11,3 +12,4 @@ cityList()
 
 // useLandmark()
 // console.log(useLandmark())
+landmarkList()
