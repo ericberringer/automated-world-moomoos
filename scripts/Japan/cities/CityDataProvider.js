@@ -1,15 +1,15 @@
 const cityCollection = [
     {
         image: "",
-        name: "Tokyo",
+        name: "Tokyo"
     },
     {
         image: "",
-        name: "Osaka",
+        name: "Osaka"
     },
     {
         image: "",
-        name: "Kyoto",
+        name: "Kyoto"
     }
 ]
 

@@ -1,5 +1,6 @@
 import {useCity} from './cities/CityDataProvider.js'
+import {cityList} from './cities/CityList.js'
 
-
-useCity()
-console.log(useCity())
+// useCity()
+cityList()
+// console.log(cityList())
