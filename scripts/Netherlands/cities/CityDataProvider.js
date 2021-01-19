@@ -1,10 +1,10 @@
 const cityCollection = [
     {
-        image: "https://www.google.com/search?q=Amsterdam+pic&sxsrf=ALeKk03OkSlnuXlgFQiJzECVNfgrY9vKHA:1611079098748&tbm=isch&source=iu&ictx=1&fir=C_OSlduAZlMltM%252Chc90SUSu3XJpWM%252C_&vet=1&usg=AI4_-kSv75B0Gvh0HqFev7YcQ5ulSXnqhw&sa=X&ved=2ahUKEwj75oqryajuAhXLzVkKHR6mDxsQ9QF6BAgQEAE#imgrc=C_OSlduAZlMltM",
+        image: "https://www.wallpaperbetter.com/wallpaper/814/948/49/amsterdam-high-res-image-2K-wallpaper-middle-size.jpg",
         name: "Amsterdam"
     },
     {
-        image:"https://upload.wikimedia.org/wikipedia/commons/8/8f/Den_Haag_Scheveningen_Kurhaus_02.jpg",
+        image:"https://besthqwallpapers.com/img/original/59776/the-hague-evening-city-panorama-modern-buildings-skyscrapers.jpg",
         name: "The Hague"
     },
     {
