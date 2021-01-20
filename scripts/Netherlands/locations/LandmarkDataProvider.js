@@ -4,15 +4,16 @@ const landmarkCollection = [
         name: "Keukenhof"
     },
     {
-        image:"https://besthqwallpapers.com/img/original/59776/the-hague-evening-city-panorama-modern-buildings-skyscrapers.jpg",
+        image:"https://ak.picdn.net/shutterstock/videos/5858987/thumb/1.jpg",
         name: "Rijksmuseum"
     },
     {
-        image: "https://image.shutterstock.com/image-photo/water-reflection-traditional-dutch-building-260nw-1096266548.jpg",
+        image: "https://image.shutterstock.com/image-photo/amsterdam-netherlands-jun-3-2015-260nw-288464270.jpg",
         name: "Heineken Experience"
     }
 ]
 
 export const useLandmark = () => {
-    return landmarkCollection.slice
+    return landmarkCollection.slice()
 }
+
