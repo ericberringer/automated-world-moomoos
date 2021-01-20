@@ -21,12 +21,13 @@ iframe {
     width: 15%;
     height: 5%;
     margin: 15px;
+    box-shadow: 4px 4px 20px white;
     
 }
 
 .welcome {
     font-family: Georgia, 'Times New Roman', Times, serif;
-    color: red;
+    color:red;
     font-size: 30pt;
     font-weight: bolder;
     text-align: center;
@@ -37,10 +38,14 @@ iframe {
     background-color: black;
 }
 .welcome {
+    display: flex;
     font-family: Georgia, 'Times New Roman', Times, serif;
     color: red;
-    font-size: 50pt;
+    font-size: 30pt;
     font-weight: bolder;
+    font-style: italic;
+    justify-content: space-around;
+
 }
 
 .headerLogo {
@@ -60,14 +65,24 @@ body {
     font-size: 24px;
     font-family: Arial, Helvetica, sans-serif;
     background-color: black;
+      
+    }
+
+    .navBar a {
+        color: red;
     }
 
 .navBar a:hover {
 color: grey;
 }
 
-.activePage:hover {
-    background-color: white;
+.activePage{
+background-color: white;
+}
+
+
+.activePage:hover { 
+    background-color: red;
 }
 
 .amsterdamPic {
@@ -87,7 +102,7 @@ color: grey;
     }
 
 .landmarks {
-    border: solid 2pt black;
+    border: solid 2pt blue;
     font-weight: bold;
 }
 
@@ -98,18 +113,23 @@ color: grey;
     margin: 15px 0;
     text-align: center;
 }
-.citizens:hover {
+.cities:hover {
     box-shadow: 0 8px 16px rgb(67, 84, 175);
 }
 
-.countryItems:hover {
+.landmarks:hover {
+    box-shadow: 0 8px 16px rgb(67, 84, 175);
+}
+
+
+.countryArticles:hover {
     box-shadow: 0 8px 16px rgb(67, 84, 175);
 }
 
 .countryArticles {
-    border: solid 2px blue;
+    /* border: solid 2px blue; */
     width: 100%;
-    margin: 10px;
+    /* margin: 10px; */
     font-family: Arial, Helvetica, sans-serif;
     font-weight: bold;
 }
