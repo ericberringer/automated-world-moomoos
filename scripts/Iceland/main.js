@@ -1,15 +1,13 @@
 
 import {cityList} from './cities/CityList.js'
 import { landmarkList } from './locations/LandmarkList.js'
+import {celebrityList} from './celebrities/CelebritiesList.js'
 
+//CityList function call
 cityList()
 
-// import {useCity} from './cities/CityDataProvider.js'
 
-// console.log(useCity())
-
-// import {useLandmark} from './locations/landmarkDataProvider.js'
-
-// useLandmark()
-// console.log(useLandmark())
+//LandmarkList Function call
 landmarkList()
+//CelebrityList Function call
+celebrityList()
