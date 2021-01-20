@@ -86,12 +86,19 @@ background-color: white;
 }
 
 .amsterdamPic {
-    flex: display;
-    flex-basis: 50%;
     align-items: center;
-    justify-content: center;
     border: solid black;
     resize: horizontal;
+    width: 75%;
+    
+   }
+
+   .amsterdamPicSection {
+    display: flex;
+    flex-basis: 50%;
+    justify-content: center;
+    background-image: url();
+    height: 60%
    }
 
 .cityPics {
