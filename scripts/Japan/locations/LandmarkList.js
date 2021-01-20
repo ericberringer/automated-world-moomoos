@@ -3,11 +3,11 @@ import {Landmark} from "./Landmark.js"
 
 export const LandmarkList = () => {
     const contentElement = document.querySelector(".landmark")
-    const landmarkListArray = useCity()
+    const landmarkListArray = useLandmark()
     
 
     let landmarkHTMLRepresentation = ""
-    for (const city of LocationListArray) {
+    for (const city of LandmarkListArray) {
     landmarkHTMLRepresentation += Landmark(landmark)
     }
     // console.log(landmarkHTMLRepresentation)
